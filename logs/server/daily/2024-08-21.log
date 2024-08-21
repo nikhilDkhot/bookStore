@@ -71,3 +71,80 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T0
 info: Connected to the database. {"timestamp":"2024-08-21T01:07:20.312Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T01:19:59.555Z"}
 info: Connected to the database. {"timestamp":"2024-08-21T01:19:59.729Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:35:38.675Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:35:39.069Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:50:19.530Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:50:19.985Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:52:57.450Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:52:57.743Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:52:59.718Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:52:59.939Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:02.750Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:03.093Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:06.532Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:07.771Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:07.965Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:11.647Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:11.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:15.725Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:15.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:57.085Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:57.304Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:54:04.063Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:54:04.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:54:08.200Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:54:08.374Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:54:10.859Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:54:11.069Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:54:19.792Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:54:19.962Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:27.782Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:27.944Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:31.488Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:31.691Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:36.742Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:36.988Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:40.038Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:41.437Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:41.627Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:43.291Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:43.460Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:46.833Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:47.009Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:49.996Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:50.227Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:54.272Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:54.491Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:05.445Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:05.670Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:07.715Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:07.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:11.709Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:11.938Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:15.340Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:16.680Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:16.869Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:21.527Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:21.736Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:41.439Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:41.638Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:01:27.622Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:01:41.951Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:01:42.152Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:01:54.520Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:02:01.612Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:02:05.672Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:02:06.027Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\New journy\bookStore\bookStore\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at PostgresQueryInterface.insert (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\abstract\query-interface.js:795:21)
+    at Wishlist.save (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\model.js:4154:35)
+    at Function.create (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\model.js:2305:12) 
+    url - /api/v1/wishlist/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-08-21T06:03:44.210Z"}

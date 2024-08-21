@@ -1495,3 +1495,143 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T0
 info: Connected to the database. {"timestamp":"2024-08-21T01:07:20.312Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T01:19:59.555Z"}
 info: Connected to the database. {"timestamp":"2024-08-21T01:19:59.729Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:35:38.675Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:35:39.069Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:50:19.530Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:50:19.985Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:52:57.450Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:52:57.743Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:52:59.718Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:52:59.939Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:02.750Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:03.093Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:06.532Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:07.771Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:07.965Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:11.647Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:11.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:15.725Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:15.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:53:57.085Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:53:57.304Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:54:04.063Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:54:04.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:54:08.200Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:54:08.374Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:54:10.859Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:54:11.069Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:54:19.792Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:54:19.962Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:27.782Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:27.944Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:31.488Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:31.691Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:36.742Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:36.988Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:40.038Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:41.437Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:41.627Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:43.291Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:43.460Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:46.833Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:47.009Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:49.996Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:50.227Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:55:54.272Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:55:54.491Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:05.445Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:05.670Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:07.715Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:07.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:11.709Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:11.938Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:15.340Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:16.680Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:16.869Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:21.527Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:21.736Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T05:56:41.439Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T05:56:41.638Z"}
+error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/wishlist.service.ts[0m:[93m47[0m:[93m5[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m47[0m     public deleteWishlist = async (body) => {
+[7m  [0m [91m    ~~~~~~[0m
+
+Error: ⨯ Unable to compile TypeScript:
+[96msrc/services/wishlist.service.ts[0m:[93m47[0m:[93m5[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m47[0m     public deleteWishlist = async (body) => {
+[7m  [0m [91m    ~~~~~~[0m
+
+    at Object.<anonymous> (E:\New journy\bookStore\bookStore\src\services\wishlist.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (E:\New journy\bookStore\bookStore\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:114:20)
+    at require.extensions.<computed> (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\New journy\bookStore\bookStore\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12) {"date":"Wed Aug 21 2024 11:31:27 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5809.046},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","./src/index.ts"],"cwd":"E:\\New journy\\bookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":120967,"external":2342444,"heapTotal":53329920,"heapUsed":28436272,"rss":72912896},"pid":1576,"uid":null,"version":"v20.10.0"},"stack":"Error: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/services/wishlist.service.ts\u001b[0m:\u001b[93m47\u001b[0m:\u001b[93m5\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS1128: \u001b[0mDeclaration or statement expected.\r\n\r\n\u001b[7m47\u001b[0m     public deleteWishlist = async (body) => {\r\n\u001b[7m  \u001b[0m \u001b[91m    ~~~~~~\u001b[0m\r\n\n    at Object.<anonymous> (E:\\New journy\\bookStore\\bookStore\\src\\services\\wishlist.service.ts:1:7)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._compile (E:\\New journy\\bookStore\\bookStore\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:69:33)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:71:20)\n    at Object.nodeDevHook [as .ts] (E:\\New journy\\bookStore\\bookStore\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)","timestamp":"2024-08-21T06:01:27.341Z","trace":[{"column":7,"file":"E:\\New journy\\bookStore\\bookStore\\src\\services\\wishlist.service.ts","function":null,"line":1,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1376,"method":"_compile","native":false},{"column":25,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1435,"method":".js","native":false},{"column":20,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1207,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1023,"method":"_load","native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:01:41.951Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:01:42.152Z"}
+error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/wishlist.service.ts[0m:[93m47[0m:[93m5[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m47[0m     public deleteWishlist = async (body) => {
+[7m  [0m [91m    ~~~~~~[0m
+
+Error: ⨯ Unable to compile TypeScript:
+[96msrc/services/wishlist.service.ts[0m:[93m47[0m:[93m5[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m47[0m     public deleteWishlist = async (body) => {
+[7m  [0m [91m    ~~~~~~[0m
+
+    at Object.<anonymous> (E:\New journy\bookStore\bookStore\src\services\wishlist.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (E:\New journy\bookStore\bookStore\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:114:20)
+    at require.extensions.<computed> (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\New journy\bookStore\bookStore\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12) {"date":"Wed Aug 21 2024 11:31:54 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5836.046},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","./src/index.ts"],"cwd":"E:\\New journy\\bookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":120967,"external":2342444,"heapTotal":53329920,"heapUsed":28338864,"rss":72982528},"pid":11248,"uid":null,"version":"v20.10.0"},"stack":"Error: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/services/wishlist.service.ts\u001b[0m:\u001b[93m47\u001b[0m:\u001b[93m5\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS1128: \u001b[0mDeclaration or statement expected.\r\n\r\n\u001b[7m47\u001b[0m     public deleteWishlist = async (body) => {\r\n\u001b[7m  \u001b[0m \u001b[91m    ~~~~~~\u001b[0m\r\n\n    at Object.<anonymous> (E:\\New journy\\bookStore\\bookStore\\src\\services\\wishlist.service.ts:1:7)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._compile (E:\\New journy\\bookStore\\bookStore\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:69:33)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:71:20)\n    at Object.nodeDevHook [as .ts] (E:\\New journy\\bookStore\\bookStore\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)","timestamp":"2024-08-21T06:01:54.330Z","trace":[{"column":7,"file":"E:\\New journy\\bookStore\\bookStore\\src\\services\\wishlist.service.ts","function":null,"line":1,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1376,"method":"_compile","native":false},{"column":25,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1435,"method":".js","native":false},{"column":20,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1207,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1023,"method":"_load","native":false}]}
+error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/wishlist.service.ts[0m:[93m48[0m:[93m5[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m48[0m     public deleteWishlist = async (body) => {
+[7m  [0m [91m    ~~~~~~[0m
+
+Error: ⨯ Unable to compile TypeScript:
+[96msrc/services/wishlist.service.ts[0m:[93m48[0m:[93m5[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m48[0m     public deleteWishlist = async (body) => {
+[7m  [0m [91m    ~~~~~~[0m
+
+    at Object.<anonymous> (E:\New journy\bookStore\bookStore\src\services\wishlist.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (E:\New journy\bookStore\bookStore\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:114:20)
+    at require.extensions.<computed> (C:\Users\hp\AppData\Local\Temp\ts-node-dev-hook-05209741197189954.js:71:20)
+    at Object.nodeDevHook [as .ts] (E:\New journy\bookStore\bookStore\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12) {"date":"Wed Aug 21 2024 11:32:01 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5843.078},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","./src/index.ts"],"cwd":"E:\\New journy\\bookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":120967,"external":2342444,"heapTotal":53592064,"heapUsed":27738184,"rss":72089600},"pid":7000,"uid":null,"version":"v20.10.0"},"stack":"Error: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/services/wishlist.service.ts\u001b[0m:\u001b[93m48\u001b[0m:\u001b[93m5\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS1128: \u001b[0mDeclaration or statement expected.\r\n\r\n\u001b[7m48\u001b[0m     public deleteWishlist = async (body) => {\r\n\u001b[7m  \u001b[0m \u001b[91m    ~~~~~~\u001b[0m\r\n\n    at Object.<anonymous> (E:\\New journy\\bookStore\\bookStore\\src\\services\\wishlist.service.ts:1:7)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._compile (E:\\New journy\\bookStore\\bookStore\\node_modules\\source-map-support\\source-map-support.js:568:25)\n    at Module.m._compile (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:69:33)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at require.extensions..jsx.require.extensions..js (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:114:20)\n    at require.extensions.<computed> (C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js:71:20)\n    at Object.nodeDevHook [as .ts] (E:\\New journy\\bookStore\\bookStore\\node_modules\\ts-node-dev\\lib\\hook.js:63:13)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)","timestamp":"2024-08-21T06:02:01.364Z","trace":[{"column":7,"file":"E:\\New journy\\bookStore\\bookStore\\src\\services\\wishlist.service.ts","function":null,"line":1,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1376,"method":"_compile","native":false},{"column":25,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false},{"column":33,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"Module.m._compile","line":69,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1435,"method":".js","native":false},{"column":20,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"require.extensions..jsx.require.extensions..js","line":114,"method":".js","native":false},{"column":20,"file":"C:\\Users\\hp\\AppData\\Local\\Temp\\ts-node-dev-hook-05209741197189954.js","function":"require.extensions.<computed>","line":71,"method":"<computed>","native":false},{"column":13,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":63,"method":"ts]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1207,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1023,"method":"_load","native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:02:05.672Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:02:06.027Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\New journy\bookStore\bookStore\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at PostgresQueryInterface.insert (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\abstract\query-interface.js:795:21)
+    at Wishlist.save (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\model.js:4154:35)
+    at Function.create (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\model.js:2305:12) 
+    url - /api/v1/wishlist/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-08-21T06:03:44.210Z"}
