@@ -1,0 +1,30 @@
+info: ::1 - - [21/Aug/2024:00:05:16 +0000] "POST /api/v1/users/login HTTP/1.1" 200 499 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:06:33 +0000] "GET /api/v1/book/ HTTP/1.1" 200 1051 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:07:33 +0000] "GET /api/v1/cart/ HTTP/1.1" 200 465 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:08:09 +0000] "POST /api/v1/cart/add HTTP/1.1" 500 46 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:08:24 +0000] "POST /api/v1/cart/add HTTP/1.1" 200 89 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:12:06 +0000] "POST /api/v1/cart/add HTTP/1.1" 200 89 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:14:17 +0000] "POST /api/v1/cart/add HTTP/1.1" 200 89 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:16:45 +0000] "POST /api/v1/cart/add HTTP/1.1" 200 89 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:18:54 +0000] "POST /api/v1/cart/add HTTP/1.1" 200 89 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:19:31 +0000] "POST /api/v1/cart/add HTTP/1.1" 200 196 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:19:42 +0000] "POST /api/v1/cart/add HTTP/1.1" 200 196 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:19:44 +0000] "POST /api/v1/cart/add HTTP/1.1" 200 196 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:26:31 +0000] "POST /api/v1/cart/reduce HTTP/1.1" 200 196 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:27:16 +0000] "POST /api/v1/cart/reduce HTTP/1.1" 200 196 "-" "PostmanRuntime/7.41.2"
+
+info: ::1 - - [21/Aug/2024:00:27:32 +0000] "POST /api/v1/cart/reduce HTTP/1.1" 200 196 "-" "PostmanRuntime/7.41.2"
+

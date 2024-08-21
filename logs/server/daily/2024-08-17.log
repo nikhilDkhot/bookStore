@@ -1,0 +1,88 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T09:41:25.057Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T09:41:25.420Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T13:15:14.057Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T13:15:14.235Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1//users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-08-17T13:17:01.900Z"}
+error: logger user service while register user value "8978235687" is out of range for type integer {"name":"SequelizeDatabaseError","original":{"code":"22003","file":"numutils.c","length":153,"line":"614","name":"error","parameters":["user1","userl1","user1@gmail.com","$2b$10$8woOBmNEG6HjQIq2lsE/yeDWya0p0KAWYwjuw.fFtXTr0KgLuLN7S","8978235687","user","2024-08-17 13:28:14.460 +00:00","2024-08-17 13:28:14.460 +00:00"],"routine":"pg_strtoint32_safe","severity":"ERROR","sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","where":"unnamed portal parameter $5 = '...'"},"parameters":["user1","userl1","user1@gmail.com","$2b$10$8woOBmNEG6HjQIq2lsE/yeDWya0p0KAWYwjuw.fFtXTr0KgLuLN7S","8978235687","user","2024-08-17 13:28:14.460 +00:00","2024-08-17 13:28:14.460 +00:00"],"parent":{"code":"22003","file":"numutils.c","length":153,"line":"614","name":"error","parameters":["user1","userl1","user1@gmail.com","$2b$10$8woOBmNEG6HjQIq2lsE/yeDWya0p0KAWYwjuw.fFtXTr0KgLuLN7S","8978235687","user","2024-08-17 13:28:14.460 +00:00","2024-08-17 13:28:14.460 +00:00"],"routine":"pg_strtoint32_safe","severity":"ERROR","sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","where":"unnamed portal parameter $5 = '...'"},"sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","stack":"Error: \n    at Query.run (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\dialects\\postgres\\query.js:76:25)\n    at E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\sequelize.js:650:28\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at PostgresQueryInterface.insert (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\dialects\\abstract\\query-interface.js:795:21)\n    at User.save (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\model.js:4154:35)\n    at Function.create (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\model.js:2305:12)","timestamp":"2024-08-17T13:28:14.667Z"}
+error: logger user service while register user value "8978235687" is out of range for type integer {"name":"SequelizeDatabaseError","original":{"code":"22003","file":"numutils.c","length":153,"line":"614","name":"error","parameters":["user1","userl1","user1@gmail.com","$2b$10$M0jGz6fgjufb5AGCSgPeWOmniRWiGlWQ31g2RIT1B3zwd7SfS1mHO",8978235687,"user","2024-08-17 13:31:45.976 +00:00","2024-08-17 13:31:45.976 +00:00"],"routine":"pg_strtoint32_safe","severity":"ERROR","sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","where":"unnamed portal parameter $5 = '...'"},"parameters":["user1","userl1","user1@gmail.com","$2b$10$M0jGz6fgjufb5AGCSgPeWOmniRWiGlWQ31g2RIT1B3zwd7SfS1mHO",8978235687,"user","2024-08-17 13:31:45.976 +00:00","2024-08-17 13:31:45.976 +00:00"],"parent":{"code":"22003","file":"numutils.c","length":153,"line":"614","name":"error","parameters":["user1","userl1","user1@gmail.com","$2b$10$M0jGz6fgjufb5AGCSgPeWOmniRWiGlWQ31g2RIT1B3zwd7SfS1mHO",8978235687,"user","2024-08-17 13:31:45.976 +00:00","2024-08-17 13:31:45.976 +00:00"],"routine":"pg_strtoint32_safe","severity":"ERROR","sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","where":"unnamed portal parameter $5 = '...'"},"sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","stack":"Error: \n    at Query.run (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\dialects\\postgres\\query.js:76:25)\n    at E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\sequelize.js:650:28\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at PostgresQueryInterface.insert (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\dialects\\abstract\\query-interface.js:795:21)\n    at User.save (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\model.js:4154:35)\n    at Function.create (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\model.js:2305:12)","timestamp":"2024-08-17T13:31:46.109Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token '}', ..." 
+     
+}" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (E:\New journy\bookStore\bookStore\node_modules\body-parser\lib\types\json.js:92:19)
+    at E:\New journy\bookStore\bookStore\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (E:\New journy\bookStore\bookStore\node_modules\raw-body\index.js:238:16)
+    at done (E:\New journy\bookStore\bookStore\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (E:\New journy\bookStore\bookStore\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1589:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1//users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-08-17T13:32:07.921Z"}
+error: 
+    status - 500 
+    message - ValidationError: "mobileNo" must be a number 
+    url - /api/v1//users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-08-17T13:32:19.486Z"}
+error: logger user service while register user value "22336644889" is out of range for type integer {"name":"SequelizeDatabaseError","original":{"code":"22003","file":"numutils.c","length":154,"line":"614","name":"error","parameters":["user2","userl2","user2@gmail.com","$2b$10$/y7s0jnuZOrgz3CyZOcH1.RcmPceghegLbOkQbbKBzt40Svz7CHAi","22336644889","user","2024-08-17 13:35:33.557 +00:00","2024-08-17 13:35:33.557 +00:00"],"routine":"pg_strtoint32_safe","severity":"ERROR","sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","where":"unnamed portal parameter $5 = '...'"},"parameters":["user2","userl2","user2@gmail.com","$2b$10$/y7s0jnuZOrgz3CyZOcH1.RcmPceghegLbOkQbbKBzt40Svz7CHAi","22336644889","user","2024-08-17 13:35:33.557 +00:00","2024-08-17 13:35:33.557 +00:00"],"parent":{"code":"22003","file":"numutils.c","length":154,"line":"614","name":"error","parameters":["user2","userl2","user2@gmail.com","$2b$10$/y7s0jnuZOrgz3CyZOcH1.RcmPceghegLbOkQbbKBzt40Svz7CHAi","22336644889","user","2024-08-17 13:35:33.557 +00:00","2024-08-17 13:35:33.557 +00:00"],"routine":"pg_strtoint32_safe","severity":"ERROR","sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","where":"unnamed portal parameter $5 = '...'"},"sql":"INSERT INTO \"users\" (\"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6,$7,$8) RETURNING \"id\",\"firstName\",\"lastName\",\"email\",\"password\",\"mobileNo\",\"role\",\"createdAt\",\"updatedAt\";","stack":"Error: \n    at Query.run (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\dialects\\postgres\\query.js:76:25)\n    at E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\sequelize.js:650:28\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at PostgresQueryInterface.insert (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\dialects\\abstract\\query-interface.js:795:21)\n    at User.save (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\model.js:4154:35)\n    at Function.create (E:\\New journy\\bookStore\\bookStore\\node_modules\\sequelize\\src\\model.js:2305:12)","timestamp":"2024-08-17T13:35:33.687Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T13:42:59.102Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T13:43:03.569Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T13:43:07.452Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T13:43:07.630Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T13:44:13.307Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T13:44:13.469Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T13:47:11.474Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T13:47:11.717Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T13:47:46.570Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T13:47:46.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T13:47:51.847Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T13:47:52.033Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T14:11:49.492Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T14:11:49.656Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:42:13.743Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:42:13.896Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:47:18.708Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:47:18.874Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:57:28.854Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:57:29.044Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:22.580Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:22.809Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:24.612Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:24.770Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:26.190Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:26.341Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:28.151Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:28.343Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:30.161Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:30.324Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:32.066Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:32.220Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:43.992Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:44.219Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:47.095Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:47.251Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:50.342Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:50.493Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:52.848Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:53.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T15:58:54.623Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T15:58:54.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T16:02:28.997Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T16:02:29.184Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T16:03:49.871Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T16:03:50.036Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-17T16:04:04.616Z"}
+info: Connected to the database. {"timestamp":"2024-08-17T16:04:04.777Z"}

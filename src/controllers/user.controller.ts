@@ -42,7 +42,7 @@ class UserController {
     next: NextFunction
   ): Promise<any> => {
     try {
-      const data = await this.UserService.getUser(req.params.id);
+      const data = await this.UserService.getUser(req.body.email, req.body.password, req.body.role);
       res.status(HttpStatus.OK).json({
         code: HttpStatus.OK,
         data: data,
@@ -59,13 +59,13 @@ class UserController {
    * @param {object} Response - response object
    * @param {Function} NextFunction
    */
-  public newUser = async (
+  public registration = async (
     req: Request,
     res: Response,
     next: NextFunction
   ): Promise<any> => {
     try {
-      const data = await this.UserService.newUser(req.body);
+      const data = await this.UserService.registration(req.body);
       res.status(HttpStatus.CREATED).json({
         code: HttpStatus.CREATED,
         data: data,
