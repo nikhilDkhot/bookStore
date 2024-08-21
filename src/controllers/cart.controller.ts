@@ -52,7 +52,7 @@ class CartController {
       res.status(HttpStatus.OK).json({
         code: HttpStatus.OK,
         data: data,
-        message: 'All users fetched successfully'
+        message: 'qauntity increase successfully'
       });
     } catch (error) {
       next(error);
@@ -69,7 +69,7 @@ class CartController {
       res.status(HttpStatus.OK).json({
         code: HttpStatus.OK,
         data: data,
-        message: 'All users fetched successfully'
+        message: 'qauntity reduce successfully'
       });
     } catch (error) {
       next(error);
@@ -86,7 +86,7 @@ class CartController {
       res.status(HttpStatus.OK).json({
         code: HttpStatus.OK,
         data: data,
-        message: 'All users fetched successfully'
+        message: 'delete cart successfully'
       });
     } catch (error) {
       next(error);
