@@ -1635,3 +1635,106 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2024-08-21T06:03:44.210Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:42:25.676Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:42:25.842Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:51:34.560Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:51:34.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:51:39.974Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:51:40.184Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:51:45.245Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:51:45.415Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:51:50.197Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:51:50.405Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:52:05.956Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:52:06.133Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:52:16.669Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:52:16.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:52:26.918Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:52:27.131Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:52:32.915Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:52:33.142Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:52:39.443Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:52:39.656Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:52:45.668Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:52:45.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:53:25.920Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:53:26.183Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:53:41.091Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:53:41.278Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:53:44.152Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:53:44.355Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:54:12.364Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:54:12.563Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:54:38.780Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:54:38.980Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:54:52.574Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:54:52.751Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:54:55.422Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:54:55.659Z"}
+error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\New journy\bookStore\bookStore\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as get] (E:\New journy\bookStore\bookStore\node_modules\express\lib\router\index.js:521:19)
+    at OrderRoutes.routes (E:\New journy\bookStore\bookStore\src\routes\order.route.ts:20:17)
+    at new OrderRoutes (E:\New journy\bookStore\bookStore\src\routes\order.route.ts:12:10)
+    at routes (E:\New journy\bookStore\bookStore\src\routes\index.ts:25:24)
+    at App.initializeRoutes (E:\New journy\bookStore\bookStore\src\index.ts:45:52)
+    at new App (E:\New journy\bookStore\bookStore\src\index.ts:31:10)
+    at Object.<anonymous> (E:\New journy\bookStore\bookStore\src\index.ts:67:13)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (E:\New journy\bookStore\bookStore\node_modules\source-map-support\source-map-support.js:568:25) {"date":"Wed Aug 21 2024 12:25:02 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":9024.25},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","./src/index.ts"],"cwd":"E:\\New journy\\bookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":130678,"external":2350636,"heapTotal":53329920,"heapUsed":30692176,"rss":75079680},"pid":8840,"uid":null,"version":"v20.10.0"},"stack":"Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (E:\\New journy\\bookStore\\bookStore\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at Function.proto.<computed> [as get] (E:\\New journy\\bookStore\\bookStore\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at OrderRoutes.routes (E:\\New journy\\bookStore\\bookStore\\src\\routes\\order.route.ts:20:17)\n    at new OrderRoutes (E:\\New journy\\bookStore\\bookStore\\src\\routes\\order.route.ts:12:10)\n    at routes (E:\\New journy\\bookStore\\bookStore\\src\\routes\\index.ts:25:24)\n    at App.initializeRoutes (E:\\New journy\\bookStore\\bookStore\\src\\index.ts:45:52)\n    at new App (E:\\New journy\\bookStore\\bookStore\\src\\index.ts:31:10)\n    at Object.<anonymous> (E:\\New journy\\bookStore\\bookStore\\src\\index.ts:67:13)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._compile (E:\\New journy\\bookStore\\bookStore\\node_modules\\source-map-support\\source-map-support.js:568:25)","timestamp":"2024-08-21T06:55:02.547Z","trace":[{"column":15,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\express\\lib\\router\\route.js","function":"Route.<computed> [as get]","line":216,"method":"<computed> [as get]","native":false},{"column":19,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\express\\lib\\router\\index.js","function":"Function.proto.<computed> [as get]","line":521,"method":"<computed> [as get]","native":false},{"column":17,"file":"E:\\New journy\\bookStore\\bookStore\\src\\routes\\order.route.ts","function":"OrderRoutes.routes","line":20,"method":"routes","native":false},{"column":10,"file":"E:\\New journy\\bookStore\\bookStore\\src\\routes\\order.route.ts","function":"new OrderRoutes","line":12,"method":null,"native":false},{"column":24,"file":"E:\\New journy\\bookStore\\bookStore\\src\\routes\\index.ts","function":"routes","line":25,"method":null,"native":false},{"column":52,"file":"E:\\New journy\\bookStore\\bookStore\\src\\index.ts","function":"App.initializeRoutes","line":45,"method":"initializeRoutes","native":false},{"column":10,"file":"E:\\New journy\\bookStore\\bookStore\\src\\index.ts","function":"new App","line":31,"method":null,"native":false},{"column":13,"file":"E:\\New journy\\bookStore\\bookStore\\src\\index.ts","function":null,"line":67,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1376,"method":"_compile","native":false},{"column":25,"file":"E:\\New journy\\bookStore\\bookStore\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":568,"method":"_compile","native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:55:07.061Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:55:07.307Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:55:13.178Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:55:13.396Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:55:16.134Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:55:16.303Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:58:12.905Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:58:13.118Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:58:15.873Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:58:16.074Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T06:58:17.702Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T06:58:17.857Z"}
+error: 
+    status - 500 
+    message - Error: WHERE parameter "userId" has invalid "undefined" value
+    at PostgresQueryGenerator.whereItemQuery (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\abstract\query-generator.js:2445:13)
+    at E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\abstract\query-generator.js:2434:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\abstract\query-generator.js:2432:35)
+    at PostgresQueryGenerator.getWhereConditions (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\abstract\query-generator.js:2860:19)
+    at PostgresQueryGenerator.selectQuery (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\abstract\query-generator.js:1460:28)
+    at PostgresQueryInterface.select (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\dialects\abstract\query-interface.js:1002:27)
+    at Function.findAll (E:\New journy\bookStore\bookStore\node_modules\sequelize\src\model.js:1824:47)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/order/4/userId 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-08-21T07:00:20.823Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T07:01:17.111Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T07:01:17.265Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T07:01:20.832Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T07:01:21.014Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T07:20:23.930Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T07:20:24.147Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T10:13:24.232Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T10:13:24.499Z"}
+error: 
+    status - 500 
+    message - Error: Missing credentials for "PLAIN"
+    at SMTPConnection._formatError (E:\New journy\bookStore\bookStore\node_modules\nodemailer\lib\smtp-connection\index.js:798:19)
+    at SMTPConnection.login (E:\New journy\bookStore\bookStore\node_modules\nodemailer\lib\smtp-connection\index.js:452:38)
+    at E:\New journy\bookStore\bookStore\node_modules\nodemailer\lib\smtp-transport\index.js:272:32
+    at SMTPConnection.<anonymous> (E:\New journy\bookStore\bookStore\node_modules\nodemailer\lib\smtp-connection\index.js:215:17)
+    at Object.onceWrapper (node:events:628:28)
+    at SMTPConnection.emit (node:events:514:28)
+    at SMTPConnection._actionEHLO (E:\New journy\bookStore\bookStore\node_modules\nodemailer\lib\smtp-connection\index.js:1360:14)
+    at SMTPConnection._processResponse (E:\New journy\bookStore\bookStore\node_modules\nodemailer\lib\smtp-connection\index.js:982:20)
+    at SMTPConnection._onData (E:\New journy\bookStore\bookStore\node_modules\nodemailer\lib\smtp-connection\index.js:763:14)
+    at TLSSocket.SMTPConnection._onSocketData (E:\New journy\bookStore\bookStore\node_modules\nodemailer\lib\smtp-connection\index.js:195:44) 
+    url - /api/v1/order/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-08-21T10:15:37.322Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-08-21T10:19:54.858Z"}
+info: Connected to the database. {"timestamp":"2024-08-21T10:19:55.057Z"}

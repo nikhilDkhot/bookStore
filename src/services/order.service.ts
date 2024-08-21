@@ -2,14 +2,15 @@ import sequelize, { DataTypes } from '../config/database';
 import order from '../models/order';
 import book from '../models/book';
 import user from '../models/user';
-//import mailer from '../utils/mail.util';
+import {sendEmail} from '../utils/mail.util';
 
 class OrderService {
   private Order = order(sequelize, DataTypes);
   private Book = book(sequelize, DataTypes);
   private User = user(sequelize, DataTypes);
 
-  // Get cart by user ID
+
+  // Get get all book of user
   public getAllOrder = async (id) => {
     const data = await this.Order.findAll({
       where: { userId: id }
@@ -17,7 +18,7 @@ class OrderService {
     return data;
   };
 
-  // Get cart by user ID
+  // Get order by book id
   public getOrder = async (id) => {
     const data = await this.Order.findAll({
       where: { id: id }
@@ -25,6 +26,7 @@ class OrderService {
     return data;
   };
 
+  //create order
   public createOrder = async (body) => {
     const bookData = await this.Book.findOne({
       where: {
@@ -43,15 +45,16 @@ class OrderService {
       const data = await this.Order.create(obj);
       bookData.quantity = bookData.quantity - body.quantity;
       const updateBook = await bookData.save();
-      /* if (updateBook){
+      if (updateBook){
         const user = await this.User.findOne({
           where: {
             id: body.userId
           }
         })
-        const mail = await mailer(user.email);
+        
+        const mail = await sendEmail(user.email);
         return 'Order Placed Successfully';
-      } */
+      }
       return data;
     }   
 

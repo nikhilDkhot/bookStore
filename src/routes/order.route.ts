@@ -14,7 +14,10 @@ class OrderRoutes {
 
   private routes = () => {
 
-    this.router.get('/:orderId', userAuth, this.OrderController.getOrder);  // get order book
+    this.router.get('/:orderId', userAuth, this.OrderController.getOrder); 
+    
+    // get order book
+    this.router.get('/:userId/userId', userAuth, this.OrderController.getAllOrder);
 
     this.router.post('/', userAuth, this.OrderController.createOrder);  // create order 
 
